@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm XT/卷心菜cabbage🥬🥬🥬</h1>
-<h3 align="center">喜歡動手寫網頁，也熱衷於資安研究 Full of curiosity for Web Dev & InfoSec</h3>
+<h3 align="center">喜歡動手寫網頁，也熱衷於資安研究</h3>
+<h3 align="center"> Full of curiosity for Web Dev & InfoSec</h3>
 
-- 🔭 I’m currently working on [https://github.com/crazyainfuture/diet-tracker.git](https://github.com/crazyainfuture/diet-tracker.git)
+- 🔭 I’m currently working on [https://github.com/crazyainfuture/diet-tracker.git)](https://github.com/crazyainfuture/fjufindfood.git)
 
 - 🌱 I’m currently learning **c/c++**
 
