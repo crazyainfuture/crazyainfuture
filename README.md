@@ -2,7 +2,7 @@
 <h3 align="center">喜歡動手寫網頁，也熱衷於資安研究</h3>
 <h3 align="center"> Full of curiosity for Web Dev & InfoSec</h3>
 [
-- 🔭 I’m currently working on [https://github.com/crazyainfuture/fjufindfood.git](https://github.com/crazyainfuture/fjufindfood.git)
+- 🔭 I’m currently working on [https://github.com/crazyainfuture/fjufindfood.git] (https://github.com/crazyainfuture/fjufindfood.git)
 
 - 🌱 I’m currently learning **c/c++**
 
